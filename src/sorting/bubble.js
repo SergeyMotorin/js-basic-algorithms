@@ -18,8 +18,6 @@ export function BubbleSort(arr) {
     }
 
     return arr;
-
-
 }
 
 // Implementation of Bubble Sort (advanced)
